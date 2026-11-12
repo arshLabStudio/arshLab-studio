@@ -7,7 +7,7 @@ const CONFIG_APP = {
     // 1. Nama Studio Foto Anda (Akan tampil di header dan portal klien)
     //    Jika mode server aktif, nama ini bisa diubah dari generatorLink (Pengaturan Studio)
     //    dan nilai di sini hanya menjadi cadangan.
-    //namaVendor: "Portal Client",
+    //namaVendor: "Dashboard Client",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
     //googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
